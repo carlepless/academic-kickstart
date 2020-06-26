@@ -24,6 +24,7 @@ interests:
 - Econometrics
 - Behavioral Economics
 - Public Policy
+- Applied Microeconomics
 
 education:
   courses:
