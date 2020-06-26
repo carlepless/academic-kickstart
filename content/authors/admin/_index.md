@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I’m a 3+5 [integrated](https://www.science.ku.dk/phd/studystructure/integratedphd/) PhD Student at the [Department of Food and Resource Economics (IFRO)](https://ifro.ku.dk/english/) at the University of Copenhagen. Before starting my PhD, I studied [Agricultural Economics](https://studies.ku.dk/masters/agricultural-economics/) at the University of Copenhagen (UCPH). 
+bio: 
 
 interests:
 - Econometrics
@@ -69,7 +69,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
+I’m a 3+5 [integrated](https://www.science.ku.dk/phd/studystructure/integratedphd/) PhD Student at the [Department of Food and Resource Economics (IFRO)](https://ifro.ku.dk/english/) at the University of Copenhagen. Before starting my PhD, I studied [Agricultural Economics](https://studies.ku.dk/masters/agricultural-economics/) at the University of Copenhagen (UCPH). 
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I work with consumer behavior and econometrics, exploring new ways to investigate the problem of limited self-control in consumption behavior. I'm also very invested in teaching, being the course coordinator of IFRO's [summercouse in econometrics](https://kurser.ku.dk/course/NIFB19000U), in addition to many other teaching responsibilities. All my teaching material is freely accesible on this site. 
