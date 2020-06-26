@@ -25,6 +25,18 @@ subtitle = ""
   icon_pack = "fas"
   name = "Econometrics"
   description = ""  
+
+[[feature]]
+  icon = "chalkboard"
+  icon_pack = "fas"
+  name = "Teaching"
+  description = ""
+
+[[feature]]
+  icon = "database"
+  icon_pack = "fas"
+  name = "Data Science"
+  description = ""
   
 [[feature]]
   icon = "overleaf"
