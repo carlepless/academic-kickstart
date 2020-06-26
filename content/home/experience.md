@@ -17,28 +17,36 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Integrated PhD Student (3+5)"
+  company = "Department of Food and Resource Economics (IFRO), UCPH"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Copenhagen, Denmark"
+  date_start = "2019-09-01"
+  date_end = ""
+  description = """"""
+  
+[[experience]]
+  title = "Student Research Assistant"
+  company = "Department of Food and Resource Economics (IFRO), UCPH"
+  company_url = ""
+  location = "Copenhagen, Denmark"
+  date_start = "2017-01-01"
+  date_end = "2019-09-01"
+  description = """Employed as a student research assistant, tasked with data management and analysis"""
+
+[[experience]]
+  title = "Teacher's Assistant"
+  company = "Department of Food and Resource Economics (IFRO), UCPH"
+  company_url = ""
+  location = "Copenhagen, Denmark"
+  date_start = "2017-04-01"
+  date_end = "2019-09-01"
+  description = """Taught various different courses, including:
+  * [Applied Game Theory](https://kurser.ku.dk/course/nifb14002u/)
+  * [Microeconomics](https://kurser.ku.dk/course/LOJB10259u)
+  * [Econometrics](https://kurser.ku.dk/course/nifb14014u)
+  """
 
 +++
