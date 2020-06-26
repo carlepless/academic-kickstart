@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Carl-Emil Pless
+title: Nelson Bighetti
 
 # Username (this should match the folder name)
 authors:
@@ -10,35 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD student (3 + 5) in Economics
+role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-- name: Department of Food and Resource Economics, the University of Copenhagen
-  url: "https://ifro.ku.dk/english/"
+- name: Stanford University
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I’m a 3+5 [integrated](https://www.science.ku.dk/phd/studystructure/integratedphd/) PhD Student at the [Department of Food and Resource Economics (IFRO)](https://ifro.ku.dk/english/) at the University of Copenhagen. Before starting my PhD, I studied [Agricultural Economics](https://studies.ku.dk/masters/agricultural-economics/) at the University of Copenhagen (UCPH). 
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Econometrics
-- Behavioral Economics
-- Public Policy
+- Artificial Intelligence
+- Computational Linguistics
+- Information Retrieval
 
 education:
   courses:
-  - course: PhD in Economics
-    institution: University of Copenhagen
-    year: 2023
-  - course: MSc in Agricultural Economics
-    institution: University of Copenhagen
-    year: 2021
-  - course: BSc in Agricultural Economics
-    institution: University of Copenhagen
-    year: 2018
-  - course: BSc in Economics (exchange)
-    institution: National Unversity of Singapore
-    year: 2017
+  - course: PhD in Artificial Intelligence
+    institution: Stanford University
+    year: 2012
+  - course: MEng in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2009
+  - course: BSc in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -50,14 +47,13 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/carlepless
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/cepless/
-- icon: orcid
+  link: https://twitter.com/GeorgeCushen
+- icon: google-scholar
   icon_pack: ai
-  link: https://orcid.org/0000-0002-8835-5652
-  
+  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: github
+  icon_pack: fab
+  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,9 +65,11 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-# user_groups:
-# - Researchers
-# - Visitors
-# ---
+user_groups:
+- Researchers
+- Visitors
+---
 
-I am an integrated (3 + 5) PhD student from the Department of Food and Resource Economics at the University of Copenhagen. I work with consumer behavior and econometrics, exploring new ways to investigate the problem of limited self-control in consumption behavior. I'm also very invested in teaching, being the course coordinator of IFRO's [summercouse in econometrics](https://kurser.ku.dk/course/NIFB19000U), in addition to many other teaching responsibilities. All my teaching material is freely accesible on this site. 
+Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
