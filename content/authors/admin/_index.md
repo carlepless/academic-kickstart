@@ -73,6 +73,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I’m a 3+5 [integrated](https://www.science.ku.dk/phd/studystructure/integratedphd/) PhD Student at the [Department of Food and Resource Economics (IFRO)](https://ifro.ku.dk/english/) at the University of Copenhagen. Before starting my PhD, I studied [Agricultural Economics](https://studies.ku.dk/masters/agricultural-economics/) at the University of Copenhagen (UCPH). 
+I’m a 3+5 [integrated](https://www.science.ku.dk/phd/studystructure/integratedphd/) PhD Student from the [Department of Food and Resource Economics (IFRO)](https://ifro.ku.dk/english/) at the University of Copenhagen. Before starting my PhD, I studied [Agricultural Economics](https://studies.ku.dk/masters/agricultural-economics/) at the University of Copenhagen. I have a general interest in applied microeconomics, with an emphasis on behavioral economics and econometrics.
 
-I work with consumer behavior and econometrics, exploring new ways to investigate the problem of limited self-control in consumption behavior. I'm also very invested in teaching, being the course coordinator of IFRO's [summercouse in econometrics](https://kurser.ku.dk/course/NIFB19000U), in addition to many other teaching responsibilities. All my teaching material is freely accesible on this site. 
+My research is focused on consumer behavior and econometrics, exploring new ways to investigate the problem of limited self-control in consumption behavior. I'm also very invested in teaching, being the course coordinator of IFRO's [summercouse in econometrics](https://kurser.ku.dk/course/NIFB19000U), in addition to many other teaching responsibilities. All my teaching material is freely accesible on this site. Feel free to contact me with any questions or inquiries.  
