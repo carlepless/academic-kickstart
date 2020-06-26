@@ -13,6 +13,6 @@ subtitle = "[@carlepless](https://twitter.com/carlepless)"
 # Order that this section will appear in.
 weight = 70
 
-<a href="https://twitter.com/carlepless?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @carlepless</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 +++
+
+<a href="https://twitter.com/carlepless?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-lang="en" data-show-count="false">Follow @carlepless</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
