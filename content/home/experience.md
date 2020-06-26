@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company = "Department of Food and Resource Economics (IFRO), UCPH"
   company_url = ""
   location = "Copenhagen, Denmark"
-  date_start = "2019-09-01"
+  date_start = "2019-11-01"
   date_end = ""
   description = """"""
   
@@ -33,8 +33,8 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Copenhagen, Denmark"
   date_start = "2017-01-01"
-  date_end = "2019-09-01"
-  description = """Employed as a student research assistant, tasked with data management and analysis"""
+  date_end = "2019-10-31"
+  description = """Employed as a student research assistant, tasked with data management and analysis."""
 
 [[experience]]
   title = "Teacher's Assistant"
@@ -42,7 +42,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Copenhagen, Denmark"
   date_start = "2017-04-01"
-  date_end = "2019-09-01"
+  date_end = "2019-10-31"
   description = """Taught various different courses, including:
   * [Applied Game Theory](https://kurser.ku.dk/course/nifb14002u/)
   * [Microeconomics](https://kurser.ku.dk/course/LOJB10259u)
