@@ -18,7 +18,7 @@ organizations:
   url: "https://ifro.ku.dk/english/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I’m a 3+5 [integrated](https://www.science.ku.dk/phd/studystructure/integratedphd/) PhD Student at the [Department of Food and Resource Economics (IFRO)](https://ifro.ku.dk/english/) at the University of Copenhagen. Before starting my PhD, I studied [Agricultural Economics](https://studies.ku.dk/masters/agricultural-economics/) at the University of Copenhagen (UCPH). 
+bio: 
 
 interests:
 - Econometrics
