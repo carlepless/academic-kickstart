@@ -24,7 +24,6 @@ subtitle = ""
   [[content.filter_button]]
       name = "Introductory Microeconomics"
       tag = "*"
-      {{% staticref "teaching/Microeconomics.pdf" %}}Download my exercise compendium for microeconomics (danish){{% /staticref %}}
       
   
   # [[content.filter_button]]
