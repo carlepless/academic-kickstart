@@ -21,9 +21,11 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-  # [[content.filter_button]]
-  #   name = "All"
-  #   tag = "*"
+  [[content.filter_button]]
+      name = "Introductory Microeconomics"
+      tag = "*"
+      {{% staticref "teaching/Microeconomics.pdf" %}}Download my exercise compendium for microeconomics (danish){{% /staticref %}}
+      
   
   # [[content.filter_button]]
   #   name = "Deep Learning"
@@ -75,4 +77,3 @@ subtitle = ""
  css_class = ""
 +++
 
-{{% staticref "teaching/Microeconomics.pdf" %}}Download my exercise compendium for microeconomics (danish){{% /staticref %}}
