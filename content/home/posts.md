@@ -15,4 +15,4 @@ weight = 65
 
 +++
 
-<a class="twitter-timeline" data-lang="en" data-height="200" data-theme="dark" href="https://twitter.com/carlepless?ref_src=twsrc%5Etfw">Tweets by carlepless</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<a class="twitter-timeline" data-lang="en" href="https://twitter.com/carlepless?ref_src=twsrc%5Etfw">Tweets by carlepless</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
