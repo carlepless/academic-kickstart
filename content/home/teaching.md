@@ -75,3 +75,4 @@ subtitle = ""
  css_class = ""
 +++
 
+{{% staticref "teaching/Microeconomics.pdf" %}}Download my exercise compendium for microeconomics (danish){{% /staticref %}}
