@@ -11,7 +11,7 @@ title = "Recent Posts"
 subtitle = "[@carlepless](https://twitter.com/carlepless)"
 
 # Order that this section will appear in.
-weight = 70
+weight = 65
 
 +++
 
