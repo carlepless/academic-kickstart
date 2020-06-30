@@ -48,5 +48,13 @@ date_format = "Jan 2006"
   * [Microeconomics](https://kurser.ku.dk/course/LOJB10259u)
   * [Econometrics](https://kurser.ku.dk/course/nifb14014u)
   """
-
+  
+[[experience]]
+  title = "BSc in Agricultural Economics "
+  company = "University of Copenhagen"
+  company_url = ""
+  location = "Copenhagen, Denmark"
+  date_start = "2015-09-01"
+  date_end = "2018-06-31"
+  description = """Employed as a student research assistant, tasked with data management and analysis."""
 +++
