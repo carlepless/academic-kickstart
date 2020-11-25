@@ -2,7 +2,7 @@
 # Slider widget.
 widget = "slider"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
 # Slide interval.
@@ -17,7 +17,7 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Hello"
-  content = "I am center aligned :smile:"
+  content = "{{% staticref "files/Exercises_Microeconomics_DA.pdf" %}}Download my CV{{% /staticref %}}"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
