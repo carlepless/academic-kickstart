@@ -6,12 +6,11 @@ active = true  # Activate this widget? true/false
 weight = 75  # Order that this section will appear.
 
 title = "Teaching"
-subtitle = "Material "
 
 [content]
   # Page type to display. E.g. project.
   page_type = "project"
-  title = Introductory Microeconomics
+  title = "Introductory Microeconomics"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
