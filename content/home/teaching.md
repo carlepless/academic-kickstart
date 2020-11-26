@@ -74,4 +74,4 @@ subtitle = "Material "
  # CSS class.
  css_class = ""
 +++
-      Exercise sets (with solutions) for Introductory Microeconomics. Unfortunately only available in Danish ({{% staticref "files/Exercises_Microeconomics_DA.pdf" %}}PDF{{% /staticref %}})
+Exercise sets (with solutions) for Introductory Microeconomics. Unfortunately only available in Danish ({{% staticref "static/files/Exercises_Microeconomics_DA.pdf" %}}PDF{{% /staticref %}})
