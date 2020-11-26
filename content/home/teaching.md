@@ -11,6 +11,7 @@ subtitle = "Material "
 [content]
   # Page type to display. E.g. project.
   page_type = "project"
+  title = Introductory Microeconomics
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -74,6 +75,4 @@ subtitle = "Material "
  # CSS class.
  css_class = ""
 +++
-title = Introductory Microeconomics
-summary = Exercise sets (with solutions) for Introductory Microeconomics.
  Only available in Danish (currently):  {{% staticref "static/files/Exercises_Microeconomics_DA.pdf" %}}PDF{{% /staticref %}}
