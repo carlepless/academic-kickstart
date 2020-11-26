@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 75  # Order that this section will appear.
 
 title = "Teaching"
-subtitle = ""
+subtitle = "Material "
 
 [content]
   # Page type to display. E.g. project.
@@ -23,8 +23,9 @@ subtitle = ""
   
   [[content.filter_button]]
       name = "Introductory Microeconomics"
-      tag = "*"
-      
+      tag = "Introductory Microeconomics"
+      Exercise sets (with solutions) for Introductory Microeconomics. Unfortunately only available in Danish.
+      {{% staticref "files/Exercises_Microeconomics_DA.pdf" %}}Download my CV{{% /staticref %}}
   
   # [[content.filter_button]]
   #   name = "Deep Learning"
@@ -75,6 +76,3 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-[[item]]
-title = Introductory Microeconomics
-
