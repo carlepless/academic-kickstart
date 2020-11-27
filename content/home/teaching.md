@@ -75,9 +75,6 @@ title = "Teaching"
  css_class = ""
 +++
 ## Introductory Microeconomics
-{{% callout note %}}
-Currently only available in Danish.
-{{% /callout %}}
 Exercises for courses in introductory microeconomics (with solutions):
 * {{% staticref "files/Exercises_Microeconomics_DA.pdf" "newtab" %}}PDF{{% /staticref %}}
 * [Overleaf](https://www.overleaf.com/read/skckhckwgxrt) 
