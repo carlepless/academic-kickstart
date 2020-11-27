@@ -74,4 +74,5 @@ title = "Teaching"
  # CSS class.
  css_class = ""
 +++
- * Exercises for courses in introductory microeconomics: !['PDF']('static/files/Exercises_Microeconomics_DA.pdf')
+**Introductory Microeconomics**
+ * Exercises for courses in introductory microeconomics: {{% staticref "files/Exercises_Microeconomics_DA.pdf" "newtab" %}}PDF{{% /staticref %}}
