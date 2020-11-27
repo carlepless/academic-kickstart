@@ -57,8 +57,8 @@ title = "Teaching"
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "DeepSkyBlue"
-  gradient_end = "SkyBlue"
+  # gradient_start = "DeepSkyBlue"
+  # gradient_end = "SkyBlue"
   
   # Background image.
   # image = "background.jpg"  # Name of image in `static/img/`.
@@ -74,5 +74,10 @@ title = "Teaching"
  # CSS class.
  css_class = ""
 +++
-**Introductory Microeconomics**
- * Exercises for courses in introductory microeconomics: {{% staticref "files/Exercises_Microeconomics_DA.pdf" "newtab" %}}PDF{{% /staticref %}}
+## Introductory Microeconomics
+{{% callout note %}}
+Currently only available in Danish.
+{{% /callout %}}
+Exercises for courses in introductory microeconomics (with solutions):
+* {{% staticref "files/Exercises_Microeconomics_DA.pdf" "newtab" %}}PDF{{% /staticref %}}
+* [Overleaf](https://www.overleaf.com/read/skckhckwgxrt) 
