@@ -10,7 +10,7 @@ title = "Teaching"
 [content]
   # Page type to display. E.g. project.
   page_type = "project"
-  title = "Introductory Microeconomics"
+
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -74,4 +74,5 @@ title = "Teaching"
  # CSS class.
  css_class = ""
 +++
- Only available in Danish (currently):  {{% staticref "static/files/Exercises_Microeconomics_DA.pdf" %}}PDF{{% /staticref %}}
+ title = "Introductory Microeconomics"
+ * Exercises for courses in introductory microeconomics. Currently only available in Danish: {{% staticref "files/Exercises_Microeconomics_DA.pdf" %}}PDF{{% /staticref %}
