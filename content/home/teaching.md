@@ -10,7 +10,7 @@ title = "Teaching"
 [content]
   # Page type to display. E.g. project.
   page_type = "project"
-
+  title = "Introductory Microeconomics"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -57,8 +57,8 @@ title = "Teaching"
   # color = "navy"
   
   # Background gradient.
-  # gradient_start = "DeepSkyBlue"
-  # gradient_end = "SkyBlue"
+  gradient_start = "DeepSkyBlue"
+  gradient_end = "SkyBlue"
   
   # Background image.
   # image = "background.jpg"  # Name of image in `static/img/`.
@@ -74,5 +74,4 @@ title = "Teaching"
  # CSS class.
  css_class = ""
 +++
- title = "Introductory Microeconomics"
  * Exercises for courses in introductory microeconomics: !['PDF']('/files/Exercises_Microeconomics_DA.pdf')
