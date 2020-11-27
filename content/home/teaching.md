@@ -80,6 +80,3 @@ Exercises for courses in introductory microeconomics (with solutions):
 * [Overleaf](https://www.overleaf.com/read/skckhckwgxrt) 
 ## Econometrics:
 Material for the Qualifcation Course in Econometrics at [UCPH](https://kurser.ku.dk/course/NIFB19000U):
-* [Github]()
-* [Exercises]
-* 
