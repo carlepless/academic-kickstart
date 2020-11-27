@@ -78,3 +78,8 @@ title = "Teaching"
 Exercises for courses in introductory microeconomics (with solutions):
 * {{% staticref "files/Exercises_Microeconomics_DA.pdf" "newtab" %}}PDF{{% /staticref %}}
 * [Overleaf](https://www.overleaf.com/read/skckhckwgxrt) 
+## Econometrics:
+Material for the Qualifcation Course in Econometrics at [UCPH](https://kurser.ku.dk/course/NIFB19000U):
+* [Github]()
+* [Exercises]
+* 
