@@ -75,4 +75,5 @@ title = "Teaching"
  css_class = ""
 +++
  title = "Introductory Microeconomics"
- * Exercises for courses in introductory microeconomics. Currently only available in Danish: {{% staticref "files/Exercises_Microeconomics_DA.pdf" %}}PDF{{% /staticref %}
+ {{< box type="note" title="Note" >}} Currently only available in Danish. {{< /box >}}
+ * Exercises for courses in introductory microeconomics: !['PDF']('/files/Exercises_Microeconomics_DA.pdf')
