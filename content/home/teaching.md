@@ -74,4 +74,4 @@ title = "Teaching"
  # CSS class.
  css_class = ""
 +++
- * Exercises for courses in introductory microeconomics: !['PDF']('/files/Exercises_Microeconomics_DA.pdf')
+ * Exercises for courses in introductory microeconomics: !['PDF']('static/files/Exercises_Microeconomics_DA.pdf')
